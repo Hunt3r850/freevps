@@ -2,11 +2,10 @@
 
 Descarga el de tu preferencia desde https://github.com/rustdesk/rustdesk/releases/tag/1.3.7
 
+![Screenshot From 2025-02-02 14-28-09](https://github.com/user-attachments/assets/ab7bde89-1a51-4ca8-8c54-6313ee667c40)
+
 
 ![Screenshot From 2025-02-02 14-27-22](https://github.com/user-attachments/assets/a802531d-5240-4785-a3c3-5c3253230098)
-
-
-![Screenshot From 2025-02-02 14-28-09](https://github.com/user-attachments/assets/ab7bde89-1a51-4ca8-8c54-6313ee667c40)
 
 
 ![Screenshot From 2025-02-02 14-27-36](https://github.com/user-attachments/assets/dbc3ee92-32b7-417c-a913-18dd8b7f8c78)
